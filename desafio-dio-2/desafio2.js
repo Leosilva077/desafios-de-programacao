@@ -23,5 +23,5 @@ function calcularSaldoRank(vitorias, derrotas) {
     console.log(`O herói tem um saldo de ${saldoVitorias} e está no nível ${nivel}`);
   }
   
-  calcularSaldoRank(10,0 );
+  calcularSaldoRank(100,50 );
   
